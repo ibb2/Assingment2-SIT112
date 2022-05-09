@@ -1,0 +1,14 @@
+Group name: Group 69
+
+Member 1: SANSON LI
+Member 2: MILICA MITROVIC
+Member 3: MICHAEL SPERANDEO
+Member 4: LOVEPREET SINGH
+Member 5: IBRAHIM IBRAHIM
+
+Keyword 1: observation
+Keyword 2: needle
+Keyword 3: income
+
+Location Latitude: 53.4808
+Location Longitude: -2.2426
